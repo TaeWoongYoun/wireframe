@@ -1,19 +1,21 @@
 *{
     margin: 0px;
     padding: 0px;
-  }
-  .container{
+}
+  
+.container{
     width: 1000px;
     margin: 0 auto;
-  }
-  .container div{
+}
+  
+.container div{
     text-align: center;
     display: table;
-  }
-  .container div span{
+}
+.container div span{
     display: table-cell;
     vertical-align: middle;
-  }
+}
   .top{
     margin-top: 20px;
     outline: 1px solid #9F9F9F;
